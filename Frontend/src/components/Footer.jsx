@@ -2,7 +2,7 @@ import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-emerald-600">
+    <footer className="">
       <div className="mt-16 mx-auto max-w-screen-xl font-serif">
         <div className="flex flex-col">
           <div className="flex justify-between text-xl bg-emerald-300/35 p-6 font-serif ">
